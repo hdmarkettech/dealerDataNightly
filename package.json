@@ -1,0 +1,22 @@
+{
+  "name": "dealerdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.7.2",
+    "async": "^3.1.0",
+    "aws-sdk": "^2.610.0",
+    "axios": "^0.19.2",
+    "basic-ftp": "^4.5.3",
+    "csvtojson": "^2.0.10",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "request": "^2.88.0"
+  }
+}
